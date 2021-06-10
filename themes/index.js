@@ -294,6 +294,12 @@ const themes = {
     text_color: "FFFFFF",
     bg_color: "2C2F33",
   },
+  hilmysakispecial: {
+    title_color: "b300a1",
+    icon_color: "27e600",
+    text_color: "FFFFFF",
+    bg_color: "2c0066",
+  },
 };
 
 module.exports = themes;
